@@ -1,0 +1,22 @@
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+a{
+
+	color:#F08080;
+}
+
+.navbar-default 
+	{
+    background-color: #3F0D12;
+    border-color: #3F0D12;
+	}
+
+.navbar-default .navbar-brand {
+    color: #E8EDDF;
+	}
+
+.navbar-default .navbar-nav>li>a {
+    color: #E8EDDF;
+	}
