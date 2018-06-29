@@ -3,12 +3,17 @@ body {
 }
 
 a{
+ color:#7C3626; 
+}
 
-	color:#F08080;
+a:focus, a:hover, a:hover h1 {
+    color:grey;
+    text-decoration: none;
 }
 
 h1 {font-family: 'Oswald', sans-serif;
 color:#3F0D12;}
+
 
 .row {
 	margin-bottom:10px;
