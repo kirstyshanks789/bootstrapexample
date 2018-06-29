@@ -7,6 +7,17 @@ a{
 	color:#F08080;
 }
 
+h1 {font-family: 'Oswald', sans-serif;
+color:#3F0D12;}
+
+.row {
+	margin-bottom:10px;
+    margin-top:10px;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
 .navbar-default 
 	{
     background-color: #3F0D12;
@@ -17,6 +28,11 @@ a{
     color: #E8EDDF;
 	}
 
-.navbar-default .navbar-nav>li>a {
+.navbar-default .navbar-nav>li>a 
+	{
     color: #E8EDDF;
 	}
+
+.img-circle 
+
+.img-responsive
