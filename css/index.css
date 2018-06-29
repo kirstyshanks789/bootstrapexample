@@ -1,5 +1,6 @@
 body {
 	font-family: 'Oswald', sans-serif;
+	background-color:white;
 }
 
 a{
@@ -13,7 +14,6 @@ a:focus, a:hover, a:hover h1 {
 
 h1 {font-family: 'Oswald', sans-serif;
 color:#3F0D12;}
-
 
 .row {
 	margin-bottom:10px;
@@ -41,3 +41,4 @@ color:#3F0D12;}
 .img-circle 
 
 .img-responsive
+
